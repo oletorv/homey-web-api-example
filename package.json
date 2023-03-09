@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "homey-api": "^1.10.20",
+    "http": "^0.0.1-security",
+    "http-terminator": "^3.2.0",
+    "open": "^8.4.2"
+  }
+}
